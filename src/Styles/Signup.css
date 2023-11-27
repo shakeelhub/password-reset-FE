@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    gap: 0;
+  }
+  .signup {
+    /* fallback for old browsers */
+    background: rgb(182, 228, 210);
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(90deg, rgba(130,127,190,1) 0%, rgba(185,215,69,1) 48%, rgba(0,212,255,1) 100%);
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(90deg, rgba(130,127,190,1) 0%, rgba(185,215,69,1) 48%, rgba(0,212,255,1) 100%);
+  }
+  
+  #orm2Example3c {
+    border: 2px solid black;
+  }
